@@ -1,0 +1,4 @@
+﻿  LinkedList.c
+C:\CStudy\20220510\LinkedList.c(20,8): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\CStudy\20220510\LinkedList.c(65,11): warning C4098: 'insertLastNode': 'void' 함수에서 값을 반환하고 있습니다.
+  20220510.vcxproj -> C:\CStudy\20220510\Debug\20220510.exe
