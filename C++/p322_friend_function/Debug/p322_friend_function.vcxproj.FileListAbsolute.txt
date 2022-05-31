@@ -1,0 +1,1 @@
+C:\Cstudy\C++\p322_friend_function\Debug\p322_friend_function.exe

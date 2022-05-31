@@ -1,0 +1,1 @@
+C:\Cstudy\C++\p351_operator_overloading_friend_function\Debug\p351_operator_overloading_friend_function.exe
