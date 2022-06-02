@@ -1,0 +1,2 @@
+﻿kim_Hyemin.obj : error LNK2019: "public: __thiscall Animal::Animal(class Animal const &)" (??0Animal@@QAE@ABV0@@Z)"public: __thiscall Dog::Dog(class Dog const &)" (??0Dog@@QAE@ABV0@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Cstudy\C++\Exam\Debug\Exam.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
