@@ -71,7 +71,6 @@ int Compare::comparevalue(int Num){
 
 	if (Num == Inputvalue)
 	{
-		cout << "±èÀÎ¼ö°¡ ÀÌ°å½À´Ï´Ù!!\n";
 		return 1;
 	}
 	else if ((Num != Inputvalue) && (Num < Inputvalue))
@@ -135,6 +134,7 @@ int main() {
 		compare.setInputvalue(input);
 		if (compare.comparevalue(num))
 		{
+			cout << player[j - 1].getName() << "°¡ ÀÌ°å½À´Ï´Ù!!\n";
 			break;
 		}
 		if (j == playernum) {
